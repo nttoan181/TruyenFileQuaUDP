@@ -2,12 +2,12 @@
 
 ## 📂 TRUYỀN FILE QUA UDP VỚI ĐĂNG NHẬP VÀ LƯU CSDL SQLITE
 
+
 <div align="center">
-    <p>
-        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/fitdnu_logo.png" alt="FITDNU Logo" width="180"/>
-        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-    </p>
+    <img src="docs/logo_aiot.png" alt="AIoTLab Logo" width="200"/>
+    <img src="docs/logo_fit.png" alt="FIT Logo" width="220"/>
+    <img src="docs/logo_dnu.png" alt="DaiNam University Logo" width="240"/>
+</div>
 
 [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)  
 [![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
