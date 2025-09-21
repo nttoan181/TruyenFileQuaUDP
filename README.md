@@ -37,7 +37,6 @@
 * Quản lý dữ liệu người dùng và file với SQLite.
 * Tích hợp giao diện Swing + JDBC SQLite.
 
----
 
 ## 📌 2. Công nghệ sử dụng
 
@@ -49,7 +48,6 @@
   * Client: GUI Swing → chọn file → gửi UDP.
   * Server: nhận file → lưu → ghi log DB.
 
----
 
 ## ⚡ 3. Chức năng hệ thống (dựa trên code hiện tại)
 
@@ -63,7 +61,6 @@
 <img src="docs/register_frame.png" alt="RegisterFrame" width="400"/>
 </div>
 
----
 
 ### 3.2. Đăng nhập người dùng (LoginFrame.java)
 
@@ -75,7 +72,6 @@
 <img src="docs/login_frame.png" alt="LoginFrame" width="400"/>
 </div>
 
----
 
 ### 3.3. Giao diện gửi file (FileTransferFrame.java)
 
@@ -89,7 +85,6 @@
 <img src="docs/file_transfer_frame.png" alt="FileTransferFrame" width="500"/>
 </div>
 
----
 
 ### 3.4. Server nhận file (UDPServer.java)
 
@@ -113,7 +108,6 @@
 <img src="docs/file_history.png" alt="File History" width="500"/>
 </div>
 
----
 
 ## 💻 4. Các thành phần chính
 
@@ -126,7 +120,6 @@
 | `UDPServer.java`         | Nhận file qua UDP, lưu file, ghi log DB |
 | `SQLiteHelper.java`      | Quản lý DB SQLite (users + files)       |
 
----
 
 ## ⚙️ 5. Các bước cài đặt
 
@@ -139,7 +132,6 @@
    * Chạy `UDPServer.java` trước.
    * Chạy `LoginFrame.java` → đăng nhập → FileTransferFrame → gửi file.
 
----
 
 ## 📞 6. Liên hệ
 
@@ -148,9 +140,7 @@
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University.
 
----
 
 
 
 
-Bạn có muốn mình làm luôn không?
