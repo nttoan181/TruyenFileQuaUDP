@@ -8,7 +8,7 @@ Ok Toàn, mình sẽ cập nhật **bản báo cáo README / tài liệu hệ th
     </a>
 </h2>
 <h2 align="center">
-   TRUYỀN FILE QUA UDP (DỰA TRÊN CODE HIỆN TẠI)
+   TRUYỀN FILE QUA UDP 
 </h2>
 <div align="center">
     <p align="center">
