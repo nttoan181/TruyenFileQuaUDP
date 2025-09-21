@@ -1,7 +1,3 @@
-Ok Toàn, mình sẽ cập nhật **bản báo cáo README / tài liệu hệ thống** mà mình đã viết dựa trên code của bạn, **thêm trực tiếp phần Hình ảnh cho Chức năng hệ thống** ngay trong báo cáo. Đây là phiên bản hoàn chỉnh:
-
----
-
 <h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
